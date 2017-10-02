@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Autosuggest", "Autosuggest\Autosuggest.csproj", "{BB4710BF-5D38-4450-AA8C-54D2BAF325B3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB4710BF-5D38-4450-AA8C-54D2BAF325B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB4710BF-5D38-4450-AA8C-54D2BAF325B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB4710BF-5D38-4450-AA8C-54D2BAF325B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB4710BF-5D38-4450-AA8C-54D2BAF325B3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {186A9478-0F30-4DB1-84A8-E128F2466670}
+	EndGlobalSection
+EndGlobal
